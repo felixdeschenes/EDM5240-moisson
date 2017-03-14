@@ -1,7 +1,7 @@
 # coding: utf-8
 
 # Toutes les étapes qui suivent se basent sur la logique de moissonnage contenue dans le procédurier publié sur la page GitHub de Jean-Hugues Roy.
-# La différence principale de procédure s'explique par une disposition de l'information en 8 pages séparées, qui sont chacunes associées à un URL différent.
+# La différence principale de procédure s'explique par une disposition de l'information en 8 pages séparées, qui sont respectivement associées à un URL différent.
 
 import csv
 import requests
